@@ -1,5 +1,5 @@
-# Всем привет, меня зовут Павел
-** Начинающий ML/DL специалист
+# Всем привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+** Меня зовут Павел. Я начинающий ML/DL специалист
 <!--
 **xxD1XY/xxD1XY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
