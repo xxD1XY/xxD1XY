@@ -1,6 +1,6 @@
 ## <h1 align="center">Всем привет, меня зовут <a href="/" target="_blank">Павел</a>
 
-<h3 align="center"Beginner ML/DL specialist 🇷🇺</h3>
+<h3 align="center"> Beginner ML/DL specialist 🇷🇺</h3>
 <!--
 **xxD1XY/xxD1XY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
