@@ -6,4 +6,5 @@
 ⚖️ Classic ML
 ⚡️ Torch
 🤖 Transformers
+🌊 Streamlit
 🌐 Web-stack
